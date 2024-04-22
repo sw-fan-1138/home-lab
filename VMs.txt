@@ -1,0 +1,7 @@
+VMs Installed
+
+OS		Purpose			Source
+Kali		Cisco EH Course		https://skillsforall.com/
+Kali		Run Websploit		https://websploit.org/
+OWASP BWA	Application Pentesting	https://sourceforge.net/projects/owaspbwa/
+
